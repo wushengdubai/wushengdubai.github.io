@@ -1,5 +1,5 @@
 ####搭建hexo个人博客+多端同步
-#####0.Hexod的定义
+#####0.Hexo的定义
 >Hexo 是一个简单地、轻量地、基于Node的一个静态博客框架，可以方便的生成静态网页托管在github和Heroku上。引用Hexo作者 @tommy351
 
 #####GitHub Pages
@@ -22,4 +22,4 @@ hexo init
 ```
 hexo s
 ```
-此时在浏览器中打开网站
+此时在浏览器中打开网站[http://localhost:4000](http://localhost:4000),可以看到如下界面
