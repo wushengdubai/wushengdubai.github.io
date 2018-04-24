@@ -1,11 +1,13 @@
-####搭建hexo个人博客+多端同步
-#####0.Hexo的定义
+---
+title: 搭建hexo个人博客+多端同步
+---
+#### 0.Hexo的定义
 >Hexo 是一个简单地、轻量地、基于Node的一个静态博客框架，可以方便的生成静态网页托管在github和Heroku上。引用Hexo作者 @tommy351
 
-#####GitHub Pages
+####  GitHub Pages
 GitHub Pages 可以被认为是用户编写的、托管在github上的静态网页。由于它的空间免费稳定， 可以用于介绍托管在github上的Project或者搭建网站。
 
-#####1.Hexo的安装
+###  1.Hexo的安装
 前提：安装好了Node.js
 
 ```
